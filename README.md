@@ -1,5 +1,6 @@
 # Sprint SDE Intern Appllication
 Just apply 
+They are from several resources: LinkedIn, Indeed, [SimplifyJobs](https://github.com/SimplifyJobs/Summer2024-Internships), [Haooffer](https://www.haooffer.net/en-US/jobs?infoId=3001&pageId=1) ,[ builtin](https://builtin.com/jobs/internships?search=software) and more.
 
 ##  This repo will share the intern position and the link and tech stack of them. 
 
@@ -45,3 +46,4 @@ I'm currently in full sprint mode to apply for these positions, so I wanted to s
 |          |               |    |   |  |
 |          |               |    |   |  |
 |          |               |    |   |  |
+
