@@ -39,4 +39,9 @@ I'm currently in full sprint mode to apply for these positions, so I wanted to s
 |LineVision  | Javascript & Python (required); Typescript/SQL/React/Node (preferred) v  UI libraries Material UI, StorybookJS, and Charting libraries AWS GCD AZURE     |    |   |[lind](https://recruiting.paylocity.com/recruiting/jobs/Details/1969019/)  |
 | BOSCH GROUP | C/C++, Python and/or Scripting language.|    | Future sponsorship unavailable    | [builtin](https://builtin.com/job/engineering-summer-intern-software/2400429) |
 | questanalytics   |  C#, React, SQL, .NET or C++ , Python  |    | Able to work without visa sponsorship now and in the future  |[link1](https://jobs.lever.co/questanalytics/fe48eb77-3439-4335-a207-822ae002997a) [link2](https://jobs.lever.co/questanalytics/b0a5d7bd-0514-45a6-985b-b5aed7164c91) |
+| Tencent  |   JavaScript React Linux RESTful                 |  Mar-25-2024  |   |  [link](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/Frontend-Developer-Intern_R102881?source=10100001)|
+|Wing   |       C++, Aviation and Drone technologies.        |    |   | [link](https://wing.com/careers/6995880002/?gh_src=0f2acb162us) |
+|          |               |    |   |  |
+|          |               |    |   |  |
+|          |               |    |   |  |
 |          |               |    |   |  |
