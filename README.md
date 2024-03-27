@@ -10,6 +10,35 @@ I'm currently in full sprint mode to apply for these positions, so I wanted to s
 
 ## Only apply the most recently opened position
 
+## Update March 26 2024:
+| Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
+| -------- | ------- |------- |   ------- | -------  |
+| ManTech         |     Data Models, Data Mining AI/ML NLP           |  Mar 19 2024  | U.S. Citizen /US Security Clearance  | [link](https://mantech.wd1.myworkdayjobs.com/External/job/USA-Remote-Work/Software-Engineering-Intern_R49065?source=appcast_Linkedin_Sponsored) |
+|  Assurant        |      C# and SQL Server  .NET Core, RESTful APIs,        |   Mar-27-2024 |   | [link](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/California-Virtual/Software-Engineering-Intern_R-103043?source=LinkedIn) |
+|  Samsara        |               |    |   |[Linkedin](https://www.linkedin.com/jobs/view/software-engineering-intern-at-samsara-3872516962/?position=5&pageNum=0&refId=BBhfttOQ1VBRCc9kLoS5xg%3D%3D&trackingId=L%2FbpoLKqXYFI4rLeQmS3YQ%3D%3D&trk=public_jobs_jserp-result_search-card)  |
+|  PING         |               | March 26, 2024   |   | [link](https://recruiting.ultipro.com/PIN1005KMC/JobBoard/b62e65e6-dfdb-4305-8ef9-9373e177a7f5/OpportunityDetail?opportunityId=a51eae4e-f53f-45a5-959c-5da211cc835c&utm_source=LINKEDIN&utm_medium=referrer) |
+|    globalpayments      |               | Mar 25 2024   |   |  [link](https://jobs.globalpayments.com/en/jobs/r0049698/software-development-intern/)|
+|viasat   |   C or C++   Linux   Python Java        |    |current U.S. Citizenship   | [link](https://careers.viasat.com/jobs/2588?iis=Job+Board&iisn=LinkedIn&source=LinkedIn&lang=en-us) |
+|Nokia          |   C/C++   protocols        | 03/26/2024   |   | [link](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107/?utm_medium=career+site&utm_source=job+alert) |
+|  prisonfellowship        |  SQL   JavaScript/Typescript, Python           |    |   |  |
+|  intel   |   C++   Shell or Python           |    |   | [link](https://jobs.intel.com/en/job/-/-/599/62945968000) |
+|   spectrum       |               | 03/25/2024   |   without restrictions or need for Charter Sponsorship  | [link](https://jobs.spectrum.com/job/-/-/4673/63072096320?utm_source=built-in&utm_medium=job-listings&utm_campaign=brand&utm_term=RD-TA) |
+|   CAMP        | net MVC, .NET Core, Azure Cloud ,JavaScript             |    |   | [link](https://recruiting.ultipro.com/CAM1010CSII/JobBoard/54a25c3a-e399-42b0-a553-16ed056e0517/OpportunityDetail?opportunityId=673a3c99-ea41-4142-82f3-fc07279f41ae) |
+| VBrick         |    JavaScript, HTML, CSS.  SQL, NoSQL           | Mar20 2024   |   | [talent](https://www.talent.com/view?id=83557c24c68d&source=linkedin-premium-1&utm_medium=linkedin-premium-1) |
+|  Microchip        |     C \ C++ ARM   Firmware embedded    microcontroller  FPGA Keil and MPLAB tools       |    |   |[link](https://microchiphr.wd5.myworkdayjobs.com/external/job/Intern---Software-Engineer_R502-24?source=Built%20In)  |
+| Workiva   |               | March27 2024   |   | [link](https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Intern---Software-Engineer_R8067?utm_source=Simplify&ref=Simplify&src=Simplify) |
+| Material Bank  |   python or data manipulation  React           |    |   | [link](https://boards.greenhouse.io/materialbank/jobs/5929642003?utm_source=Simplify&gh_src=Simplify) |
+| G2         | Ruby on Rails              |    |   | [link](https://boards.greenhouse.io/g2crowd/jobs/5846387?utm_source=Simplify&gh_src=Simplify) |
+|Houlihan Lokey,    |      C# and SQL Angular           |   Mar26-2024 |   | [link](https://hl.wd1.myworkdayjobs.com/en-US/Corporate/job/Los-Angeles-USA/Software-Engineer-Intern_R1479?src=indeed) |
+|  tesla   |     Rails, React, Ruby or Webpack          |    |   | [link](https://www.tesla.com/careers/search/job/internship-fullstacksoftwareengineerfleetnetsummer2024-211333?source=Indeed&tags=organicjob?source=Indeed&tags=organicjob) |
+|  Hypertherm Associates  |               |   Mar26-2024 |   | [link](https://hypertherm.wd5.myworkdayjobs.com/en-US/hypertherm-careers/job/US-NY-Home-Based/Intern---Software-Engineering_R2789-2?source=Indeed) |
+|   American Express       |     iOS swift          |    |  will not pursue visa sponsorship  |  [link](https://aexp.eightfold.ai/careers/job/17869340?utm_source=test123&utm_medium=campaign123&domain=aexp.com&src=JB-10780&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed)|
+|          |               |    |   |  |
+
+
+
+
+
 ## Update March 25 2024:
 
 | Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
