@@ -10,6 +10,24 @@ I'm currently in full sprint mode to apply for these positions, so I wanted to s
 
 ## Only apply the most recently opened position
 
+## Update March 27 2024:
+| Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
+| -------- | ------- |------- |   ------- | -------  |
+|     Monster     |  Web: .NET and Angular   mobile:iOS  Database, Data Analysis     |March 22, 2024 |   | [link](https://recruiting2.ultipro.com/MON1009MECY/JobBoard/0fafc71f-58c9-483c-8d6e-f05afa05c2cf/OpportunityDetail?opportunityId=8a8aa7dc-4226-472c-bf73-adb85a09001b&utm_source=LINKEDIN&utm_medium=referrer) |
+|   smartthings       |               |    |   | [link](https://www.indeed.com/jobs?q=software+engineer+intern&fromage=1&vjk=afb9b0dff2d01dbd) |
+|  info        |     Microsoft Power Platform    Azure SQL Jira         |    |   | [link](https://careers.infor.com/en_US/careers/JobDetail/Development-Intern/13679#) |
+|    amadeus      |       Angular and Cloud Azure         |   Mar 27 2024 |   | [link](https://amadeus.wd3.myworkdayjobs.com/jobs/job/Irving-Texas/Software-Engineer-Intern_R17685-1?jobPipeline=Indeed) |
+|  NI Research Intern        |      RF, microwaves and mmW design IC design          | 03/27/2024    |   | [link](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8852?source=Indeed.com&sourceType=PREMIUM_POST_SITE) |
+|     Astronics     |    Python            |    |   |  [link]()|
+|      hitachi    |   I and Machine Learning Engineer       | Mar 26, 2024   |   | [link](https://careers.hitachi.com/jobs/14165518-ai-and-machine-learning-engineer-intern-summer-2024?tm_job=R0047723&tm_event=view&tm_company=2531) |
+|    CGB      |               | Mar 26,2024   | nor are we able to sponsor visas.  |[link](https://cgb.wd5.myworkdayjobs.com/en-US/CGB_Careers/job/Mandeville-LA/Software-Developer-Intern_R0005206?source=APPLICANT_SOURCE-6-9)  |
+|  kodak        | (Vue JS, React, Angular, etc.) Web Design/Developer              |  Mar 27, 2024  |   |  [link](https://careers.kodak.com/job/Rochester-Web-DesignDeveloper-Intern-MO/1148183400/?Codes=Indeed_Website)|
+|  | | |  |
+
+
+
+
+
 ## Update March 26 2024:
 | Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
 | -------- | ------- |------- |   ------- | -------  |
