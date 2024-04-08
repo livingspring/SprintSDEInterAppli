@@ -9,6 +9,21 @@ I'm currently in full sprint mode to apply for these positions, so I wanted to s
 # 2024 Summer SDE Intern USA
 
 ## Only apply the most recently opened position
+## Update April 8 2024:
+| Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
+| -------- | ------- |------- |   ------- | -------  |
+|     codeworks     | C++ linux,  (GPGPU)  | ||[link](https://mycompas.net/codeworks/?cjobid=W4mQbZNOeGc&postid=OmmrHBnhKyw) | 
+|tetratech||April4||[link](https://tetratech.referrals.selectminds.com/jobs/software-developer-intern-41406)|
+|clinisys|c# .net |||[link](https://careers.clinisys.com/jobs/3751256-intern-software-development?utm_source=LinkedIn)|
+|Oracle|Android and/or iOS  Unix and/or Linux,Big Data tools|April4||[link](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211250?utm_medium=jobboard&utm_source=LinkedIn)|
+|Ribbon Communications|containerization technologies (Docker, Kubernetes).|||[link](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-TX-Plano/Software-Engineer-Summer-Internship_REQ-2024-1751?source=Linkedin)|
+|Ribbon|Python  linux containerization Ansible||US Citizens and all other parties authorized|[link](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-TX-Plano/Software-Engineer-Summer-Internship_REQ-2024-1751?source=Linkedin)|
+|ForeFlight|||April-5|[link](https://tricentis.wd1.myworkdayjobs.com/en-US/Tricentis_Careers/jobs/details/Intern-Software-Engineer_JR103291?workerSubType=0cb2ae6f158901b473b8668c6401cb00&locations=9f1579f52acc010113b027ac43d60000)|
+|||||
+|||||
+|||||
+
+
 
 ## Update March 27 2024:
 | Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
