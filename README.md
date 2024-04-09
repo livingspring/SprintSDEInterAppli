@@ -4,11 +4,24 @@ They are from several resources: LinkedIn, Indeed, [SimplifyJobs](https://github
 
 ##  This repo will share the intern position and the link and tech stack of them. 
 
-I'm currently in full sprint mode to apply for these positions, so I wanted to share my progress with you all. I'll be submitting applications every day and providing daily updates. I'm actively searching for opportunities across multiple platforms, including LinkedIn, Indeed, [SimplifyJobs](https://github.com/SimplifyJobs/Summer2024-Internships), [Haooffer](https://www.haooffer.net/en-US/jobs?infoId=3001&pageId=1) ,[ builtin](https://builtin.com/jobs/internships?search=software) and more.
+I'm currently in full sprint mode to apply for these positions, so I wanted to share my progress with you all. I'll be submitting applications every day and providing daily updates. I'm actively searching for opportunities across multiple platforms, including LinkedIn, Indeed,Wayup, [SimplifyJobs](https://github.com/SimplifyJobs/Summer2024-Internships), [Haooffer](https://www.haooffer.net/en-US/jobs?infoId=3001&pageId=1) ,[ builtin](https://builtin.com/jobs/internships?search=software) and  more.
 
 # 2024 Summer SDE Intern USA
 
 ## Only apply the most recently opened position
+
+## Update April 9 2024:
+| Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
+| -------- | ------- |------- |   ------- | -------  |
+| iXp   |  Node.js, Python, and Go. html    |  April 4    |      | [link](https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Developer-Newtown-Square%2C-PA-PA-19073/1057454501/?feedId=224301&utm_source=wayup&utm_campaign=SAP_WayUp)  |
+|Adobe|   |April 8|    |[link](https://careers.adobe.com/us/en/job/ADOBUSR141262EXTERNALENUS/2024-Intern-Software-Development-Engineer?utm_medium=phenom-feeds&source=LinkedIn&utm_source=linkedin)|
+|Cadence ||April 8||[link](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R45536-1?source=Linkedin)|
+|coherent||April 8||[link](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2004483?utm_medium=jobshare)|
+|||||
+
+
+
+
 ## Update April 8 2024:
 | Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
 | -------- | ------- |------- |   ------- | -------  |
