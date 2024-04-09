@@ -19,10 +19,14 @@ I'm currently in full sprint mode to apply for these positions, so I wanted to s
 |Ribbon Communications|containerization technologies (Docker, Kubernetes).|||[link](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-TX-Plano/Software-Engineer-Summer-Internship_REQ-2024-1751?source=Linkedin)|
 |Ribbon|Python  linux containerization Ansible||US Citizens and all other parties authorized|[link](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-TX-Plano/Software-Engineer-Summer-Internship_REQ-2024-1751?source=Linkedin)|
 |ForeFlight|||April-5|[link](https://tricentis.wd1.myworkdayjobs.com/en-US/Tricentis_Careers/jobs/details/Intern-Software-Engineer_JR103291?workerSubType=0cb2ae6f158901b473b8668c6401cb00&locations=9f1579f52acc010113b027ac43d60000)|
+|Intrepid Direct Insurance|C#/.NET. JavaScript/TypeScript| April2|Sponsorship not Offered for this Role|[Link](https://careers-berkley.icims.com/jobs/10330/software-engineer-intern/job?mobile=false&width=1069&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300)|
+|Schneider | Python, C++, C#, MS Visual Studio.|April5||[link](https://www.se.com/ww/en/about-us/careers/job-details/software-engineer-intern/66632/?iis=Job%20Board&iisn=linkedin&src=linkedin)|
+|earlywarning| Java, Python, & PowerShell||Must be US Citizen or US National only.|[link](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Intern---DevOps-Software-Engineering--Summer-2024-_REQ2024243?source=Built%20In)|
+|Waystar | Kubernetes, On-Perm, AWS  C#, .Net, Javascript|April4||[link](https://waystar.wd1.myworkdayjobs.com/waystar/job/Application-Engineer-Intern_R1996-1?source=Built%20In)|
 |||||
 |||||
 |||||
-
+|||||
 
 
 ## Update March 27 2024:
