@@ -9,6 +9,14 @@ I'm currently in full sprint mode to apply for these positions, so I wanted to s
 # 2024 Summer SDE Intern USA
 
 ## Only apply the most recently opened position
+## Update April 12 2024:
+| Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
+| -------- | ------- |------- |   ------- | -------  |
+| Motorola|  |   April9 |  Must be a US Citizen, permanent resident or be an MS student with work authorization (F1 Visa on CPT accepted only for masters-level students | [link](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Engineer-Summer-2024-Co-Op--Research-Park-_R46009)|
+| |  |    |   | |
+
+
+
 
 ## Update April 9 2024:
 | Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
@@ -17,9 +25,12 @@ I'm currently in full sprint mode to apply for these positions, so I wanted to s
 |Adobe|   |April 8|    |[link](https://careers.adobe.com/us/en/job/ADOBUSR141262EXTERNALENUS/2024-Intern-Software-Development-Engineer?utm_medium=phenom-feeds&source=LinkedIn&utm_source=linkedin)|
 |Cadence ||April 8||[link](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Intern_R45536-1?source=Linkedin)|
 |coherent||April 8||[link](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2004483?utm_medium=jobshare)|
+|noblis| Java, NodeJS, JavaScript, TypeScript, NodeJS, and Golang.|April 8|Must be an US citizen and able to obtain a public trust. |[link](https://jobs-noblis.icims.com/jobs/23113/software-development-intern/job?mobile=false&width=1155&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300)|
+|Bonsai Robotics  |C++ with CMake|||[link](https://ats.rippling.com/bonsairoboticsmain/jobs/c79fa228-332d-447e-ab8e-598e823b9ac3?jobSite=LinkedIn)|
 |||||
-
-
+|||||
+|||||
+|||||
 
 
 ## Update April 8 2024:
