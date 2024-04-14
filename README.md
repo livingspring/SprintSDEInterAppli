@@ -9,12 +9,17 @@ I'm currently in full sprint mode to apply for these positions, so I wanted to s
 # 2024 Summer SDE Intern USA
 
 ## Only apply the most recently opened position
-## Update April 12 2024:
+## Update April 14 2024:
 | Company     | Tech  | Released Date  | Sponsor/Citizen requriment | Link| 
 | -------- | ------- |------- |   ------- | -------  |
 | Motorola|  |   April9 |  Must be a US Citizen, permanent resident or be an MS student with work authorization (F1 Visa on CPT accepted only for masters-level students | [link](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Engineer-Summer-2024-Co-Op--Research-Park-_R46009)|
+|leidos | C++ Linux  |  April 12  | US citizenship is required, as well as eligibility to obtain a DoD security clearance  |[link](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00133521?utm_source=Simplify&ref=Simplify) |
 | |  |    |   | |
-
+| |  |    |   | |
+| |  |    |   | |
+| |  |    |   | |
+| |  |    |   | |
+| |  |    |   | |
 
 
 
